@@ -1,4 +1,4 @@
-
+"use clinet"
 
 export default function ProductDetailes({ params }: { params: { productId: string } }) {
 
